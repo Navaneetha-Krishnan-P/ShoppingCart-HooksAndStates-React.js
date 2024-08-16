@@ -1,0 +1,54 @@
+/* Navbar CSS */
+.d-flex {
+    padding-left: 20px;
+    text-align: center;
+}
+
+.nav {
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.text {
+    padding: 0px 10px;
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+    .d-flex {
+        padding-left: 600px;
+    }
+    .nav {
+        margin-left: 100px;
+    }
+}
+
+@media (max-width: 992px) {
+    .d-flex {
+        padding-left: 400px;
+    }
+    .nav {
+        margin-left: 50px;
+    }
+}
+
+@media (max-width: 768px) {
+    .d-flex {
+        padding-left: 200px;
+    }
+    .nav {
+        margin-left: 20px;
+    }
+}
+
+@media (max-width: 576px) {
+    .d-flex {
+        padding-left: 0;
+        justify-content: center;
+    }
+    .nav {
+        margin-left: 0;
+        text-align: center;
+    }
+}

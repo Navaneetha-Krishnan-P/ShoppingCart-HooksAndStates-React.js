@@ -1,0 +1,87 @@
+[
+    {
+      "title" : "LINED PLAID SHACKET",
+      "price" : 2500,
+      "pic" : "https://alamodelabel.in/cdn/shop/files/9A88AF61-4981-4F22-9F1D-0E898F137CE1_700x.jpg?v=1697007575",
+      "id" : 1,
+      "qty":1
+    },
+    {
+      "title" : "COTTON LONG SHIRT ",
+      "price" : 2499,
+      "pic" : "https://alamodelabel.in/cdn/shop/files/E4DAB120-8DF2-42C1-B1FC-4E92C6D820CD_700x.jpg?v=1706012696",
+      "id" : 2,
+      "qty":1
+    },
+    {
+      "title" : "LILAD SHIRT DRESS",
+      "price" : 1500,
+      "pic" : "https://www.alamodelabel.in/cdn/shop/products/image_81b53ba5-20b4-4bfd-af79-77707f9ba718_700x.jpg?v=1627499084",
+      "id" : 3,
+      "qty":1
+    },
+    {
+      "title" : "KNIT SHIRT WITH BELT",
+      "price" : 1999,
+      "pic" : "https://cdn.shopify.com/s/files/1/0250/7571/2047/files/a0e5f076-edf5-4df1-977a-f5d4de1075fc_600x.jpg?v=1698338479",
+      "id" : 4,
+      "qty":1
+    },
+    {
+      "title" : "LUXURY NIGHTSET",
+      "price" : 1499,
+      "pic" : "https://www.alamodelabel.in/cdn/shop/products/image_dfa8eec5-c5ae-490f-bcb5-163b0cf4f43a_700x.jpg?v=1622825995",
+      "id" : 5,
+      "qty":1
+    },
+    {
+      "title" : "CARTOON PRINTED NIGHTSET",
+      "price" : 1200,
+      "pic" : "https://www.alamodelabel.in/cdn/shop/products/image_770cbad2-b56d-458d-818b-6b85c88b9979_700x.jpg?v=1622813514",
+      "id" : 6,
+      "qty":1
+    },
+    {
+      "title" : "STRIPED HOLIDAY SHIRT",
+      "price" : 1299,
+      "pic" : "https://www.alamodelabel.in/cdn/shop/products/WhatsAppImage2022-05-09at8.05.21PM_700x.jpg?v=1652113085",
+      "id" : 7,
+      "qty":1
+    },
+    {
+      "title" : "JUDY STATEMENT BAG",
+      "price" : 2499,
+      "pic" : "https://www.alamodelabel.in/cdn/shop/files/WhatsAppImage2023-07-17at16.06.14_700x.jpg?v=1690011844",
+      "id" : 8,
+      "qty":1
+    },
+    {
+      "title" : "WHITE STATEMENT BAG",
+      "price" : 1999,
+      "pic" : "https://www.alamodelabel.in/cdn/shop/files/c_700x.jpg?v=1688975402",
+      "id" : 9,
+      "qty":1
+    },
+    {
+      "title" : "ROGER PU BAGS",
+      "price" : 2000,
+      "pic" :"https://www.alamodelabel.in/cdn/shop/products/Exclusive_Roger_Designer_PU_Bags_1_700x.jpg?v=1622818626",
+      "id" : 10,
+      "qty":1
+    },
+    {
+      "title" : "LEATHER ANKLE BOOTS",
+      "price" : 1499,
+      "pic" : "https://www.alamodelabel.in/cdn/shop/files/56C1C4BE-FF41-4029-9840-97CE5BE6336C_700x.jpg?v=1699368158",
+      "id" : 11,
+      "qty":1
+    },
+    {
+      "title" : "MARTIN BOOTS",
+      "price" : 2200,
+      "pic" : "https://www.alamodelabel.in/cdn/shop/products/Martin_Boots_1_700x.jpg?v=1591473045",
+      "id" : 12,
+      "qty":1
+    }
+  
+  ]
