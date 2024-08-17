@@ -86,7 +86,8 @@
     }
     .cards {
         grid-template-columns: 1fr;
-        margin: 10px 0px 0px 0px;
+        justify-content: center;
+        margin: 10px 50px;
     }
     .cards1 {
         grid-template-columns: 1fr;
