@@ -63,7 +63,7 @@
 
 @media (max-width: 768px) {
     .cards1 {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(3, 1fr);
         margin-left: 30px;
     }
     .btnbuy {
@@ -72,9 +72,9 @@
 }
 
 @media (max-width: 576px) {
-    .cards1 {
-        grid-template-columns: 1fr;
-        margin-left: 0;
+     .cards1 {
+        grid-template-columns: repeat(2, 1fr);
+        margin: 10px 20px;
     }
     .btnbuy {
         left: 0;
