@@ -87,7 +87,7 @@
     .cards {
         grid-template-columns: 1fr;
         justify-content: center;
-        margin: 10px 50px;
+        margin: 10px 100px;
     }
     .cards1 {
         grid-template-columns: 1fr;
