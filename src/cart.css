@@ -73,7 +73,7 @@
 
 @media (max-width: 576px) {
      .cards1 {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, 1fr);
         justify-content: center;
         
        
